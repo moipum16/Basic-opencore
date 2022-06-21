@@ -9,7 +9,7 @@ let exit2 = null;
 let manualCount = 0;
 
 do {
-    if (manualCount > 65536) {
+    if (manualCount > 13107) {
         console.clear();
         manualCount = 0;
     }
